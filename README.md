@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p> 
 <img src="https://komarev.com/ghpvc/?username=akabharat&label=Profile%20views&color=000000&style=flat" alt="akabharat"/> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKABharat&theme=transparent)
@@ -13,3 +14,4 @@
 
 
 - **lol things are public**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p> 
