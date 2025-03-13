@@ -1,3 +1,7 @@
+
+[![](https://skillicons.dev/icons?i=c,cpp,html,css,js,tailwind,react,nextjs,nodejs,mongodb,ts,mysql,androidstudio,firebase,linux,git,py,django,opencv,anaconda&theme=light)](https://skillicons.dev)
+
+                                                                                                    
                                                                                                     
                                   -%%%%%%%%%%%##**++==---::....                                     
                                   *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%##*+=--::...              
@@ -44,4 +48,6 @@
                                         :=*##**+-.   =@@@@@@@@@@@@@%#****+-.                        
                                            .::.      +@@@@@@@@@@@#****+-.                           
                                                       :+#%@@@@@#***+=.                              
+
+
 
