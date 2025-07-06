@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/sometimecalledJSON/Bharat2044/refs/heads/main/assets/header.png"/>
+<!--<img src="https://raw.githubusercontent.com/sometimecalledJSON/Bharat2044/refs/heads/main/assets/header.png"/>
+-->
 
 
 <!-- 🧠 Terminal Boot Log with Glowing Effect -->
