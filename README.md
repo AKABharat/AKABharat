@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabharat&layout=compact&theme=radical&hide_border=true&title_color=00ffff" alt="Top Languages"/>
 </p>-->
 
-<hr/>
+<!--<hr/> -->
 
 <!-- 🕸️ Contribution Graph -->
 <!--<h2 align="center">🔥 Contribution Activity</h2>
