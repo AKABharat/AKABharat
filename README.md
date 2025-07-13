@@ -7,30 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&height=50&lines=Human+Being;Programmer;Software+Engineer;"/>
 </p>
 
-<!-- Copy-paste in your Readme.md file -->
-
-<p align="center>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=107737002" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=107737002&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @AKABharat" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=107737002&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=738033111" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=738033111&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of AKABharat/AKABharat - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=738033111&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
-</a>
-</p>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!-- 🎯 Animated Console Banner with Cyber Theme -->
 <!--p align="center">
