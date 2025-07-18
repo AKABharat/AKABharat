@@ -5,8 +5,8 @@
 <!--  Terminal Boot Log with Glowing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=10&center=true&vCenter=true&width=800&height=50&lines=Live;And;Let+others+to+live.;"/>
-</p>
 <a href="https://u8views.com/github/AKABharat"><img src="https://u8views.com/api/v1/github/profiles/107737002/views/day-week-month-total-count.svg"></a>
+</p>
 
 
 
