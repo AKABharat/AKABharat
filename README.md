@@ -7,6 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=10&center=true&vCenter=true&width=800&height=50&lines=Live;And;Let+others+to+live.;"/>
 </p>
 
+<p align="center">
+MOST OF THE REPOSITORY IS PRIVATE
+</p>
 
 
 
