@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-MOST OF THE REPOSITORY IS PRIVATE
+MOST OF THE REPOSITORIES ARE PRIVATE
 </p>
 
 
