@@ -29,11 +29,11 @@
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akabharat&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akabharat&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabharat&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+  <br/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=akabharat&theme=algolia&hide_border=true" alt="GitHub Streak"/> -->
+  <!-- <br/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akabharat&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <hr/>
