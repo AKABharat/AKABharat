@@ -24,17 +24,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40" style="background:white; padding:4px; border-radius:12px; box-shadow: 0 1px 4px rgba(0,0,0,0.15); border:1px solid #e0e0e0; margin-left: 8px;"/>
 </p>
 
-<hr/>
+<!-- <hr/> -->
 
 <!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabharat&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
-  <br/>
+<!-- <h2 align="center">📊 GitHub Stats</h2> -->
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabharat&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/> -->
+  <!--<br/>-->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=akabharat&theme=algolia&hide_border=true" alt="GitHub Streak"/> -->
   <!-- <br/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akabharat&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
-</p>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=akabharat&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+</p>-->
 
 <hr/>
 
