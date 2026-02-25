@@ -18,7 +18,6 @@
 <!-- <hr/> -->
 
 <!-- 🚀 Tech Stack -->
-<h2 align="center">🌍 Tech Toolbox</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40" style="background:white; padding:4px; border-radius:12px; box-shadow: 0 1px 4px rgba(0,0,0,0.15); border:1px solid #e0e0e0; margin-left: 8px;"/>
@@ -46,13 +45,6 @@
 
 <hr/>
 
-<!-- 🧠 Developer Profile Trophy -->
-<h2 align="center">🏆 GitHub Trophy Cabinet</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akabharat&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
-<hr/>
 
 
 
