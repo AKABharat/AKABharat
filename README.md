@@ -35,19 +35,19 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akabharat&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
 </p>-->
 
-<hr/>
+<!-- <hr/> -->
 
 <!-- 🔥 Contributions -->
-<h2 align="center">🔥 Contributions Activity</h2>
+<!-- <h2 align="center">🔥 Contributions Activity</h2> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akabharat&theme=react-dark" alt="Activity Graph"/>
 </p>
 
-<hr/>
+<!-- <hr/> -->
 
 
 
 
-<p align="center">
-  <strong>⭐⭐⭐⭐⭐⭐⭐</strong>  
-</p>
+<!-- <p align="center"> -->
+  <!--<strong>⭐⭐⭐⭐⭐⭐⭐</strong>-->  
+<!-- </p> -->
