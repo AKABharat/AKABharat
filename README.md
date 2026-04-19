@@ -25,10 +25,10 @@
 const BhAVAt = {
   name:       "BhΔVΔt",
   alias:      "AKABharat",
-  role:       ["Full Stack Developer", "Salesforce Dev & Admin", "Data Analyst"],
+  role:       ["Software Developer", "Salesforce Admin & Developer", "Data Analyst", "Softwar Engineer"],
   languages:  ["C", "C++", "Python", "JavaScript", "SQL", "Apex"],
   passions:   ["Clean Code", "System Design", "Data Insights", "Building in Public"],
-  currentlyWorking: "Building full-stack & Salesforce solutions 🚀",
+  currentlyWorking: "Data Analysis 🧬,Prev. Salesforce solutions 🚀",
   funFact:    "I debug with the same energy others use to meditate. 🧘‍♂️",
 };
 ```
