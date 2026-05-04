@@ -88,9 +88,9 @@ const BhAVAt = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKABharat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKABharat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff"/> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKABharat&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKABharat&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/> -->
 
 </div>
 
